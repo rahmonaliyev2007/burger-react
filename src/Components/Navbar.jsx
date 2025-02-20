@@ -21,7 +21,7 @@ export default function Navbar() {
                         </NavLink>
                     </li>
                     <li className='text-lg max1020:text-sm text-yashil font-medium  active:bg-yashil hover:text-white transition !duration-100'>
-                        <NavLink to="/Menu" className="p-5 hover:bg-yashil">
+                        <NavLink to="/Menu/Posts" className="p-5 hover:bg-yashil">
                             Меню
                         </NavLink>
                     </li>
