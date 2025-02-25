@@ -1,0 +1,90 @@
+{
+  "burgers": [
+    {
+      "id": "1",
+      "name": "Cheese Burger",
+      "price": 5.99,
+      "description": "A classic cheese burger"
+    },
+    {
+      "id": "2",
+      "name": "Chicken Burger",
+      "price": 6.99,
+      "description": "A classic cheese burger"
+    },
+    {
+      "name": "Salom",
+      "price": "90",
+      "description": "Lorem200",
+      "id": "1c7c"
+    }
+  ],
+  "hotdogs": [
+    {
+      "id": "1",
+      "name": "Classic Hotdog",
+      "price": 3.99,
+      "description": "A classic hotdog"
+    },
+    {
+      "id": "2",
+      "name": "Chili Dog",
+      "price": 4.99,
+      "description": "A chili dog"
+    }
+  ],
+  "pizzas": [
+    {
+      "id": "1",
+      "name": "Margherita Pizza",
+      "price": 12.99,
+      "description": "A classic margherita pizza"
+    },
+    {
+      "id": "2",
+      "name": "Meat Lover's Pizza",
+      "price": 15.99,
+      "description": "A meat lovers pizza"
+    }
+  ],
+  "soda": [
+    {
+      "id": "1",
+      "name": "Coca-Cola",
+      "price": 1.99,
+      "description": "A classic coca-cola"
+    },
+    {
+      "id": "2",
+      "name": "Sprite",
+      "price": 1.99,
+      "description": "A classic sprite"
+    },
+    {
+      "id": "4f03",
+      "name": "ww",
+      "price": "33",
+      "description": "dds"
+    }
+  ],
+  "juice": [
+    {
+      "id": "1",
+      "name": "Orange Juice",
+      "price": 2.99,
+      "description": "A classic orange juice"
+    },
+    {
+      "id": "2",
+      "name": "Apple Juice",
+      "price": 2.99,
+      "description": "A classic apple juice"
+    },
+    {
+      "name": "sa",
+      "price": "9",
+      "description": "descriptipon",
+      "id": "7c6b"
+    }
+  ]
+}

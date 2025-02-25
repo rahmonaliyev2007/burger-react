@@ -11,6 +11,3 @@ nav div ul li a.active {
   transition: all 0.3s ease-in-out;
   /* color: #cbf8a7b5; */
 }
-body{
-  background-color: black;
-}

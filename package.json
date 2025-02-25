@@ -8,9 +8,13 @@
     "@testing-library/react": "^16.2.0",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.7.9",
+    "i18next": "^24.2.2",
+    "i18next-browser-languagedetector": "^8.0.4",
+    "i18next-http-backend": "^3.0.2",
     "lucide-react": "^0.475.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-i18next": "^15.4.1",
     "react-router-dom": "^7.2.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
@@ -19,7 +23,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "server": "json-server --watch db.json --port 5200"
   },
   "eslintConfig": {
     "extends": [
@@ -41,6 +46,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.20",
+    "json-server": "^1.0.0-beta.3",
     "postcss": "^8.5.3",
     "tailwindcss": "^3.4.17"
   }
