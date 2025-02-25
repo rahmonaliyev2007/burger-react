@@ -2,7 +2,7 @@ import React from 'react';
 import { useTranslation } from 'react-i18next';
 
 export function Header() {
-    const { t, i18n } = useTranslation();
+    const { t} = useTranslation();
     return (
         <header className="header w-full bg-slate-300 bg-heroBG bg-cover bg-center h-screen flex items-center">
             <div className="w-full max-abu mx-auto px-4 flex flex-col justify-center items-start">

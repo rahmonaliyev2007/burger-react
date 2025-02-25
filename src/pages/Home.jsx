@@ -12,6 +12,9 @@ function Home() {
 
   let [products, showProducts] = useState([]);
 
+  console.log(products);
+  
+
   useEffect(() => {
     fetch('https://fakestoreapi.com/products')
       .then(res => res.json())

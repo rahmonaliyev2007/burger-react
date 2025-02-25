@@ -4,7 +4,7 @@ import { ThemeContext } from "../context/ThemeContext";
 
 function Menu() {
 
-    const { theme, toggleTheme } = useContext(ThemeContext);
+    const { theme} = useContext(ThemeContext);
 
 
     return (

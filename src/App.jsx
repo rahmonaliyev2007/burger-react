@@ -8,7 +8,7 @@ import Posts from "./pages/Posts";
 import Todos from "./pages/Todos";
 import Comments from "./pages/Comments";
 import Hamburger from "./pages/Hamburger2";
-import Hot_dog from "./pages/Hot_dog";
+import HotDog from "./pages/Hot_dog";
 import Pizza from "./pages/Pizza";
 import Soda from "./pages/Soda";
 import Juice from "./pages/Juice";
@@ -27,7 +27,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} >
           <Route index element={<Hamburger/>} />
-          <Route path="hotdog" element={<Hot_dog />} />
+          <Route path="hotdog" element={<HotDog />} />
           <Route path="pizza" element={<Pizza />} />
           <Route path="soda" element={<Soda />} />
           <Route path="juice" element={<Juice />} />

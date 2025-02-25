@@ -39,7 +39,7 @@ i18n
       uz: {
         translation: {
           title: "Katta Burger",
-          subtitle: "mol go\'shtli",
+          subtitle: `mol go'shtli`,
           sub_title: `Yangi pishirilgan bulochka, marul, piyoz bilan tuzlangan bodring va mayonez va ketchup bilan ta'mlangan mayda kotlet - bu gamburgerning klassik portreti, Qo'shma Shtatlardagi eng keng tarqalgan "tezkor" taom, uning zaharlanishi har kuni o'n minglab amerikaliklarni kasalxonaga yotqizadi.`,
           b: `Burgerlar`,
           h: `HotDoglar`,
