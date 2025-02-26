@@ -17,6 +17,12 @@
       "price": "90",
       "description": "Lorem200",
       "id": "1c7c"
+    },
+    {
+      "id": "0f86",
+      "name": "Yengi Gamburger",
+      "price": "2",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum, ratione!"
     }
   ],
   "hotdogs": [
@@ -31,6 +37,12 @@
       "name": "Chili Dog",
       "price": 4.99,
       "description": "A chili dog"
+    },
+    {
+      "id": "4a69",
+      "name": "New Uzbek Hotdog",
+      "price": "1.5",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum, ratione!"
     }
   ],
   "pizzas": [
